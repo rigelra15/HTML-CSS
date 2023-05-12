@@ -1,0 +1,29 @@
+#youtube {
+    font-family: Verdana;
+    color: white;
+    background-color: red;
+    border: 1px solid #000000;
+    border-radius: 7px;
+    padding: 5px 10px;
+    margin: 50px;
+    text-decoration: none;
+}
+
+#youtube:hover {
+    background-color: orange;
+}
+
+#youtube:active {
+    background-color: blue;
+}
+
+#youtube:visited {
+    background-color: green;
+}
+
+#pg {
+    height: 100px;
+    width: 100%;
+    border: 1px solid red;
+    overflow: scroll;
+}

@@ -1,0 +1,48 @@
+    /* color: yellow; */ 
+    /* color: #FFD95A; */
+    /* color: rgb(208, 255, 0) */
+    /* color: rgba(208, 255, 0, 0.127) */
+    /* color: hsl(200, 50%, 50%) */
+    /* color: hsla(200, 50%, 50%, 0.473) */
+
+h1 {
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    color: aqua;
+    text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+
+    height: 100px;
+    width: 400px;
+    padding: 50px;
+    margin: 40px;
+    border: 1px solid red;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 200%;
+}
+
+h2:hover {
+    color: orange;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: lowercase;
+    text-align: justify;
+    word-spacing: 10px;
+}
+
+
