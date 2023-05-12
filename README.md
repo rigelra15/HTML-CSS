@@ -1,6 +1,7 @@
-> _Last Update: **[v1.0]** 12 May 2023_
+> 💡 _Last Update:_ **[v1.0]** 12 May 2023
 
 > This repository will continue to be updated if there are additions
+
 # HTML-CSS
 Repositori ini berisi sumber kode dan tutorial tentang **[HTML](https://id.wikipedia.org/wiki/HTML)** dan **[CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets)**, dua bahasa pemrograman dasar yang digunakan untuk membuat halaman web. Di dalam repositori ini, Anda akan menemukan banyak contoh kode dan penjelasan yang mudah dipahami, sehingga cocok bagi pemula yang ingin belajar tentang **[HTML](https://id.wikipedia.org/wiki/HTML)** dan **[CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets)**.
 
