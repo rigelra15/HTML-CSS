@@ -2,9 +2,9 @@
 
 > ⚙️ This repository will continue to be updated if there are additions
 
-# JavaScript
+# JavaScript atau JS
 ### **Pengertian JavaScript**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="logo_html5" height="50px">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="logo_js" height="50px">
 
 **[JavaScript](https://id.wikipedia.org/wiki/JavaScript)** adalah bahasa pemrograman yang digunakan secara luas untuk mengembangkan aplikasi web interaktif. Dalam konteks pengembangan web, **[JavaScript](https://id.wikipedia.org/wiki/JavaScript)** berperan sebagai bahasa pemrograman klien (client-side) yang dijalankan pada browser pengguna untuk membuat halaman web yang dinamis, interaktif, dan responsif.
 
