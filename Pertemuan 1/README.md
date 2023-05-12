@@ -46,7 +46,7 @@ Dengan **[CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets)**, kita dap
 ---
 
 ### **Pengertian JavaScript**
-<img src="Pertemuan 1/HTML/img/logo_js.png" alt="logo_js" height="50px">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="logo_js" height="50px">
 
 **[JavaScript](https://id.wikipedia.org/wiki/JavaScript)** adalah bahasa pemrograman yang digunakan secara luas untuk mengembangkan aplikasi web interaktif. Dalam konteks pengembangan web, **[JavaScript](https://id.wikipedia.org/wiki/JavaScript)** berperan sebagai bahasa pemrograman klien (client-side) yang dijalankan pada browser pengguna untuk membuat halaman web yang dinamis, interaktif, dan responsif.
 
